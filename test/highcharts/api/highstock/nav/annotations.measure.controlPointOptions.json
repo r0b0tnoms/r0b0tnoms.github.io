@@ -1,0 +1,1 @@
+{"typeList":{"names":["*"]},"children":[{"name":"events","fullname":"annotations.measure.controlPointOptions.events","isLeaf":true,"typeMap":{"*":1},"typeList":{"names":["*"]},"since":"6.0.0","filename":"js/annotations/types/Measure.js","line":724,"lineEnd":724,"version":"5071faa03"}]}

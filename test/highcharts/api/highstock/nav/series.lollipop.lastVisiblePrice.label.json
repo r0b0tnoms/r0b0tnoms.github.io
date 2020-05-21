@@ -1,0 +1,1 @@
+{"typeList":{"names":["*"]},"children":[{"name":"enabled","fullname":"series.lollipop.lastVisiblePrice.label.enabled","isLeaf":true,"default":"true","typeMap":{"boolean":1},"typeList":{"names":["boolean"]},"description":"<p>Enable or disable the label.</p>\n","filename":"js/modules/price-indicator.src.js","line":37,"lineEnd":45,"version":"5071faa03"}]}

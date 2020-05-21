@@ -1,0 +1,1 @@
+{"typeList":{"names":["*"]},"children":[{"name":"enabled","fullname":"navigator.series.marker.enabled","isLeaf":true,"default":false,"typeMap":{"boolean":1},"typeList":{"names":["boolean"]},"filename":"js/parts/Navigator.js","line":365,"lineEnd":365,"version":"5071faa03"}]}

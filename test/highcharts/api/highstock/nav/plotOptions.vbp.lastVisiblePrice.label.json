@@ -1,0 +1,1 @@
+{"typeList":{"names":["*"]},"children":[{"name":"enabled","fullname":"plotOptions.vbp.lastVisiblePrice.label.enabled","isLeaf":true,"default":"true","typeMap":{"boolean":1},"typeList":{"names":["boolean"]},"description":"<p>Enable or disable the label.</p>\n","since":"6.0.0","filename":"js/modules/price-indicator.src.js","line":37,"lineEnd":45,"version":"5071faa03"}]}

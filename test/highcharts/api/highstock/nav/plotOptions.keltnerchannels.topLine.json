@@ -1,0 +1,1 @@
+{"description":"<p>Top line options.</p>\n","typeList":{"names":[]},"children":[{"name":"styles","fullname":"plotOptions.keltnerchannels.topLine.styles","isLeaf":false,"typeMap":{"*":1},"typeList":{"names":["*"]},"description":"<p>Styles for a bottom line.</p>\n","since":"7.0.0","filename":"js/indicators/keltner-channels.src.js","line":82,"lineEnd":82,"version":"5071faa03"}]}

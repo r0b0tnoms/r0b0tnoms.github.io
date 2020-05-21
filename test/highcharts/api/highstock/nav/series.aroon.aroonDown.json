@@ -1,0 +1,1 @@
+{"description":"<p>aroonDown line options.</p>\n","typeList":{"names":["*"]},"children":[{"name":"styles","fullname":"series.aroon.aroonDown.styles","isLeaf":false,"typeMap":{"*":1},"typeList":{"names":["*"]},"description":"<p>Styles for an aroonDown line.</p>\n","since":"7.0.0","filename":"js/indicators/aroon.src.js","line":80,"lineEnd":82,"version":"5071faa03"}]}

@@ -1,0 +1,1 @@
+{"description":"<p>Line options.</p>\n","typeList":{"names":["*"]},"children":[{"name":"fill","fullname":"annotations.fibonacci.typeOptions.line.fill","isLeaf":true,"default":"none","typeMap":{"string":1},"typeList":{"names":["string"]},"since":"6.0.0","filename":"js/annotations/types/CrookedLine.js","line":115,"lineEnd":115,"version":"5071faa03"}]}

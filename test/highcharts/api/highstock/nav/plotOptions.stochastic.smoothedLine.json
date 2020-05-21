@@ -1,0 +1,1 @@
+{"description":"<p>Smoothed line options.</p>\n","typeList":{"names":["*"]},"children":[{"name":"styles","fullname":"plotOptions.stochastic.smoothedLine.styles","isLeaf":false,"typeMap":{"*":1},"typeList":{"names":["*"]},"description":"<p>Styles for a smoothed line.</p>\n","since":"6.0.0","filename":"js/indicators/stochastic.src.js","line":65,"lineEnd":67,"version":"5071faa03"}]}
