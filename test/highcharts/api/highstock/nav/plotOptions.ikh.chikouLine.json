@@ -1,1 +1,0 @@
-{"description":"<p>The styles for Chikou line</p>\n","typeList":{"names":["*"]},"children":[{"name":"styles","fullname":"plotOptions.ikh.chikouLine.styles","isLeaf":false,"typeMap":{"*":1},"typeList":{"names":["*"]},"since":"6.0.0","filename":"js/indicators/ichimoku-kinko-hyo.src.js","line":189,"lineEnd":189,"version":"5071faa03"}]}

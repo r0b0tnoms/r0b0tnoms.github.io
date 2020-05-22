@@ -1,1 +1,0 @@
-{"description":"<p>Top line options.</p>\n","typeList":{"names":[]},"children":[{"name":"styles","fullname":"series.priceenvelopes.topLine.styles","isLeaf":false,"typeMap":{"*":1},"typeList":{"names":["*"]},"since":"6.0.0","filename":"js/indicators/price-envelopes.src.js","line":83,"lineEnd":83,"version":"5071faa03"}]}
