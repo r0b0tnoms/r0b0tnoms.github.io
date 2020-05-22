@@ -1,3 +1,2 @@
-# r0b0tnoms.github.io
-nomsite
+# NOMsite
 under dev
