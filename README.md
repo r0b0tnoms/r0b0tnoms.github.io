@@ -1,2 +1,0 @@
-# NOMsite
-under dev
